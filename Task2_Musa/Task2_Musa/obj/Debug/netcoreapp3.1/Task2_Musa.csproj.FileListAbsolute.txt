@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.exe
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.deps.json
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.runtimeconfig.json
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.runtimeconfig.dev.json
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.dll
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\bin\Debug\netcoreapp3.1\Task2_Musa.pdb
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\obj\Debug\netcoreapp3.1\Task2_Musa.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\obj\Debug\netcoreapp3.1\Task2_Musa.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\obj\Debug\netcoreapp3.1\Task2_Musa.AssemblyInfo.cs
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\obj\Debug\netcoreapp3.1\Task2_Musa.dll
+C:\Users\HP\Desktop\P319-LAB\20.08.2021P319Lab\Task2_Musa\Task2_Musa\obj\Debug\netcoreapp3.1\Task2_Musa.pdb
